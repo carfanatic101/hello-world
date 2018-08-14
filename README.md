@@ -1,2 +1,2 @@
-# hello-worls
+# hello-world
 Just another Noob
